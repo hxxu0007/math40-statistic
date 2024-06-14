@@ -1,0 +1,57 @@
+Descriptive statistics, 
+including measures of central tendency, dispersion and position; elements of probability; confidence intervals; 
+hypothesis tests; two-population comparisons; correlation and regression; goodness of fit; analysis of variance;
+applications in various fields.
+Introduction using a computer software package to complete both descriptive and inferential statistics problems.
+
+Upon completion of Math 40, a student should be able to:
+build a frequency distribution for, and make a histogram of, quantitative data.
+determine whether or not there is significant correlation for a bivariate data set, and if so, fit a linear 
+  regression equation and use it for data prediction.
+perform the steps for a hypothesis test about a single population parameter and interpret the result.
+solve an application problem using the central limit theorem.
+use a computer program to make a graph of categorical data.
+4units=4x3 hours out of class per week.
+
+Textbook: Open Educational Resource through LibreText.
+Online homework System: Open Educational Resource through My Open Math.
+Calculator: TI-83 or 84. (A calculator emulator will not be allowed on exams.)
+Computer Software: We will need to use Google Sheets. Your student email (gmail) give you access to these.
+A way to scan handwritten documents to pdfs for submission.
+Cellphone with scanning software (directions given on first day of class)
+A printer/scanner with the ability to scan multiple pages into a single pdf file.
+A computer/laptop for online work.
+A reliable internet connection.
+A Webcam and Microphone.
+
+Grade Percentage Breakdown
+Homework:15%     Participation:10%       Lab:15%   ModuleTests:40%    Final:20%
+***drop with NGR, drop with W?
+
+***discussions--chapter1--subcribe, account setting--notification--email/push notification for account or for
+  each class--select from drop down--suggested:announcement, submission comment, Discussions--3 options, appointment
+  availbility.  my files: delete conversation attachments if needed/over limit.
+
+meet with Jennie Graham:   6/11 9:40~50am https://us06web.zoom.us/j/99329310224?pwd=VGJVdlVmVjVVNWYrSTNPZTJSNTgwZz09
+One thing I like about working with math:The way mathematical models describe natural phenomena,like discovering hidden 
+  patterns of reality and helping solve similar/relevent issues.
+One thing I don’t particularly care for:Sometimes, the abstract nature of math can be challenging. When dealing with complex 
+ expressions or diving into advanced topics, it can feel like navigating a maze.
+
+Hi mates!
+
+My name is Hang Xu. 
+1) I see my future career as Wi-Fi testing engineer utilizing AI/ML technology. 
+
+2) One thing I like about working with math:The way mathematical models describe natural phenomena,like discovering hidden 
+     patterns of reality and helping solve similar/relevent issues.
+   One thing I don’t particularly care for:Sometimes, the abstract nature of math can be challenging. When dealing with complex 
+     expressions or diving into advanced topics, it can feel like navigating a maze.
+3) 
+
+4) I like traveling, hiking and cooking at my spare time:
+
+
+
+population gives parameter and sample gives statistic, grep--population/white--sample, measurements based on census data are called
+parameters, time and expenses--national census 10yrs/once

@@ -1,0 +1,50 @@
+Variables and Types of Data:
+ Qualitative: non-numeric, categorical, think quality. hair color, gender, kind of car driven
+Quantitative: numeric, think quantity.
+  Discrete: # of eggs laid, courses taken, usually integers.
+  Continuous: on a continuous measurable scale, speed, length, time, volume, usually partial of int.
+
+
+ levels of measurement to categorize data four main types:
+   Nominal Scale:qulitative, non-numeric, kind, mutual-exclusive, no natural order, Gender, eye color, blood type
+   Ordinal Scale:qulitative, non-numeric, kind, natural order, no precise diff btwn values, satisfaction, socioeconomic status
+   Interval Scale:quantitative, numeric, natural order, Equal intervals, no true zero point. temperature, IQ, SAT score
+   Ratio scale:quantitative, numeric, natural order, Equal intervals, true zero point. height, weight, age, time, salary
+
+Data Collection and Sampling Techniques
+unbiased sampling:
+ simple random(random row and random column for 6 times), systematic(number the members, pick k-th), stratified(each row as group/strata then random on each), 
+ cluster(samilar on first step as stratified then choose the whole group--whole row), convenience(survey, go to mall ask questions), volunteer(TV ad-biased).
+
+Sampling Error is the difference between the results obtained from a sample and the results obtained from the population from which the sample was selected.
+Non-sampling Error occurs when the data are obtained erroneously or the sample is biased, i.e., nonrepresentative. calibration and/or human error.
+
+Descriptive statistics summarize and describe data within a sample. e.g. Creating a histogram to visualize the distribution of heights in a sample of individuals.
+Inferential statistics use information from a sample to make inferences about a larger population.They allow us to generalize findings beyond the observed data.
+  e.g. Estimating the population mean based on a sample mean and confidence interval.
+
+Outlier is a data point that significantly differs from other observations in a dataset.
+
+Types of Sampling of Data:
+Observational Study: natural setting/environ, unethical/dangerous, variable non-manipulation, cause-and-effect situation cannot be shown(other factors), 
+  expensive&time consuming, confounding variable noe seperated.
+Experimental Study: researcher manipulate independent/explanatory variable resulting-->dependent/outcome variable 
+  involve treatment group(give instruction or trial drug) and control group(no drug or instruction), able to select objects and assign to specific group.
+  Hawthorne effect, confound variable, unnatural setting(lab, classroom)
+
+misleading conclution:
+sample: where data come from, large sample prefered, random and representative, data collector--you or other reported, the way questions are phrased can often 
+  influence how they are answered. Correlation does not imply causation. Detached Statistics: A claim in which no comparison is made, non-rounded number does not 
+  make it exact. e.g.Sarah sold 100% more cookies this year OR Sarah sold 2 boxes of cookies this year instead of the 1 box she sold last year.
+
+Statistical Thinking: 
+what is the data means, the goal of the study.
+source of data, special interest? reliable?
+sampling method: collecting biased or not? people allowed volunteer? sample representative?
+Analyze: Graph the Data, Explore the Data(Outliers? Missing data? Distribution?), Apply Statistical Methods
+Conclude: Statistical Significance(Do the results have statistical significance? Do the results have practical significance?). • e.g. If a new drug leads to a significant 
+  reduction in blood pressure compared to a placebo, we say the effect is statistically significant. A small difference in click-through rates for two website designs 
+  might be statistically significant, but practically insignificant if it doesn’t impact user behavior significantly
+
+
+Height,weight,time quantitative continuous; height, weight, income,age, time, salary ratio. temp interval
