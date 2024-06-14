@@ -48,3 +48,5 @@ Conclude: Statistical Significance(Do the results have statistical significance?
 
 
 Height,weight,time quantitative continuous; height, weight, income,age, time, salary ratio. temp interval
+
+need to add ch2 summary
